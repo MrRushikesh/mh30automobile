@@ -375,7 +375,7 @@ header{
     }
 
     #dropdownDiv{
-        border: 2px solid red;
+        /* border: 2px solid red; */
         margin-top:20px;
         width:100%;
     
